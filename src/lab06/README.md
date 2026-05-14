@@ -35,6 +35,7 @@
 ![Результат работы demo.py](../../images/lab06/cemi_02.png)
 
 **Скриншоты вывода:**
+
 ![Результат работы demo.py](../../images/lab06/demo_result.png)
 
 ---
