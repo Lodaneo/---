@@ -2,6 +2,7 @@ import sys
 import os
 
 # Ajuste de caminho para encontrar o lab03
+#это функция, которая создает и возвращает другую функцию с уже предустановленными параметрами.
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from lab03.models import Warrior, Mage
